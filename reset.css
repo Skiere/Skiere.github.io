@@ -46,3 +46,19 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+.na{
+	background-color: #e68080;
+	font-size: 25px;
+    width: 60%;
+	margin: 0 0 0 30px;
+	
+}
+
+.an{
+	margin: 10px 0 0 30px;
+    background-color: #e68080;
+	font-size: 25px;
+	width: 60%;
+
+}
